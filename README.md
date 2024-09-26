@@ -44,6 +44,7 @@ Currently, Plonky3 supports the following finite fields:
 - [Poseidon2 Air](https://github.com/Plonky3/Plonky3/tree/main/poseidon2-air) - Learn how to generate poseidon2 hash proof in Air Constraints.
 
 ## Videos
+- [Introduction to Plonky 1, 2, 3 by Daniel Lubarov](https://www.youtube.com/live/v9xZrhAuTio) - An introduction to Plonky series.
 - [The origin of Plonky3 by Daniel Lubarov](https://www.youtube.com/watch?v=giFA3UXbu_s) - Talk from the early stage of development of Plonky3.
 - [Plonky3: Past, Present, Future by Daniel Lubarov](https://www.youtube.com/watch?v=203M0Q8iKso) - A general rundown of Plonky3 and its future.
 - [Aggregation Day : Plonky3, Type 1, Miden](https://www.youtube.com/watch?v=j9KZixZqpAM) - A panel with Brenden, Danile, Bobbin from Polygon team, Uma from Succinct, and Eli from Starkware.
