@@ -3,6 +3,40 @@ A curated list of Plonky3 resources, libraries, tools and more.
 
 Polygon [Plonky3](https://github.com/Plonky3/Plonky3), built by Polygon Zero team, is a toolkit for implementing polynomial IOPs (PIOPs), such as PLONK and STARKs, allowing developers to configure a variety of to-spec implementations from a single ZK proving system.
 
+## Concepts
+
+### Finite Field
+Finite Field is a finite set of numbers that can be used in arithmetic operations. The size of the finite field is determined by the prime number used in the field.
+
+Currently, Plonky3 supports the following finite fields:
+- Goldilocks: $2^{64} - 2^{32} + 1$
+- Babybear: $2^{31} - 2^{27} + 1$
+- KoalaBear: $2^{31} - 2^{24} + 1$
+- Mersenne31: $2^{31} - 1$
+- BN254
+
+### Hashes
+- Poseidon
+- Poseidon2
+- Rescue
+- Monolith
+- Keccak
+- Blake3
+- SHA-2
+
+### Permutations
+
+### Merkle Tree
+
+### PCS(Polynomial Commitment Schemes)
+
+### VCS(Vector Commitments Schemes)
+
+### FRI
+- Reed-Solomon Codes
+
+### Fiat-Shamir
+
 ## Examples
 - [Fibonacci Air](https://github.com/BrianSeong99/plonky3_fibonacci) - Learn the basics of Writing Air Constraints and Execution traces.
 - [Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck) - Learn how to compare values in Air Contraints, and optimize on constraint degrees.
