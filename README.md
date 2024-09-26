@@ -38,7 +38,7 @@ Currently, Plonky3 supports the following finite fields:
 ### Fiat-Shamir
 
 ## Examples
-- [Fibonacci Air](https://github.com/BrianSeong99/plonky3_fibonacci) - Learn the basics of Writing Air Constraints and Execution traces.
+- [Fibonacci Air](https://github.com/BrianSeong99/plonky3_fibonacci) [[video](https://youtu.be/2WjcXZYo7eA?si=289iwzLUJlhndVYa&t=1990)] - Learn the basics of Writing Air Constraints and Execution traces.
 - [Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck) - Learn how to compare values in Air Contraints, and optimize on constraint degrees.
 - [Keccak Air](https://github.com/Plonky3/Plonky3/tree/main/keccak-air) - Learn how to generate keccak hash proof in Air Constraints in multiple field(Babybear, Goldilocks, Koala, Mersenne31) and hash(Keccak, Poseidon2, Sha256) configurations
 - [Poseidon2 Air](https://github.com/Plonky3/Plonky3/tree/main/poseidon2-air) - Learn how to generate poseidon2 hash proof in Air Constraints.
