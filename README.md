@@ -20,7 +20,7 @@ A curated list of Plonky3 resources, libraries, tools and more.
 # awesome-plonky3
 A curated list of Plonky3 resources, libraries, tools and more.
 
-Polygon [Plonky3](https://github.com/Plonky3/Plonky3), built by Polygon Zero team, is a toolkit for implementing polynomial IOPs (PIOPs), such as PLONK and STARKs, allowing developers to configure a variety of to-spec implementations from a single ZK proving system.
+Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implementing polynomial IOPs (PIOPs), such as PLONK and STARKs, allowing developers to configure a variety of to-spec implementations from a single ZK proving system.
 
 > Contributions are very welcome! Please have a look at [Contribution Guide](./contributing.md).
 
@@ -64,8 +64,8 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3), built by Polygon Zero tea
 - **[Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck) [[video](https://www.youtube.com/live/c8y7l3Ee70g?feature=shared&t=986)]**: Learn how to compare values in Air Contraints, and how to optimize on constraint degrees.
 
 ### Lectures/Presentations:
-- **[Introduction to Plonky 1, 2, 3](https://www.youtube.com/live/v9xZrhAuTio)**: An introduction to Plonky series by Daniel Lubarov.
-- **[The origin of Plonky3](https://www.youtube.com/watch?v=giFA3UXbu_s)**: Talk from the early stage of development of Plonky3 by Daniel Lubarov.
-- **[Plonky3: Past, Present, Future](https://www.youtube.com/watch?v=203M0Q8iKso)**: A general rundown of Plonky3 and its future by Daniel Lubarov
-- **[Aggregation Day : Plonky3, Type 1, Miden](https://www.youtube.com/watch?v=j9KZixZqpAM)**: A panel with Brenden, Danile, Bobbin from Polygon team, Uma from Succinct, and Eli from Starkware.
-- **[Build with Plonky2 and Plonky3](https://www.youtube.com/watch?v=HPu_fSvjAV0)**: A panel with Polygon, Succinct, and Electron on building with Plonky2 and Plonky3.
+- **[Introduction to Plonky 1, 2, 3](https://www.youtube.com/live/v9xZrhAuTio)**: An introduction to Plonky by Daniel Lubarov.
+- **[The origin of Plonky3](https://www.youtube.com/watch?v=giFA3UXbu_s)**: Early stage of development of Plonky3 by Daniel Lubarov.
+- **[Plonky3: Past, Present, Future](https://www.youtube.com/watch?v=203M0Q8iKso)**: A generalized overview of Plonky3 and its future by Daniel Lubarov
+- **[Aggregation Day : Plonky3, Type 1, Miden](https://www.youtube.com/watch?v=j9KZixZqpAM)**: A panel with Brendan, Daniel, and Bobbin from Polygon; Uma Roy, of Succinct Labs, and Eli Ben-Sasson, of Starkware.
+- **[Build with Plonky2 and Plonky3](https://www.youtube.com/watch?v=HPu_fSvjAV0)**: A panel with Paul G from Polygon, Ratan from Succinct, and Garvit from Electron on building with Plonky2 and Plonky3.
