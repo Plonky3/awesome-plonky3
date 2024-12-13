@@ -39,6 +39,7 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 ## Benchmarks
 
 - **[Bench mark guide](https://github.com/Plonky3/Plonky3?tab=readme-ov-file#benchmarks)**: A guide to run your own benchmarks in Plonky3 using Poseidon2, Keccak, and Blake3 Air Constraints and various Plonky3 fields and hashes settings.
+- **[Small Fields in Plonky3 & Comparison](https://hackmd.io/@Syxton/small_fields_in_plonky3)**: A comparison between small fields in Plonky3 and their performance.
 
 ## Papers
 
