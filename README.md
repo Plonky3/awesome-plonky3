@@ -58,11 +58,11 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 - **[SP1 zkVM Source Code Walkthrough](https://trapdoortech.medium.com/zero-knowledge-proof-introduction-to-sp1-zkvm-source-code-d26f88f90ce4)**: Based on Plonky3, SP1 enhances the AIR description of chip interconnection and uses the LogUp algorithm to achieve a complete description of the RISC-V CPU-based virtual machine constraints.
 
 ### Examples/Tutorials:
-- **[Keccak Air](https://github.com/Plonky3/Plonky3/tree/main/keccak-air)**: Learn how to write keccak hash Air Constraints and prove in various field and hash configs in Plonky3.
-- **[Poseidon2 Air](https://github.com/Plonky3/Plonky3/tree/main/poseidon2-air)**: Learn how to write poseidon2 hash Air Constraints and prove in various field and hash configs in Plonky3.
-- **[Blake3 Air](https://github.com/Plonky3/Plonky3/tree/main/blake3-air)**: Learn how to write blake3 hash Air Constraints and prove in various field and hash configs in Plonky3.
-- **[Fibonacci Air](https://github.com/BrianSeong99/plonky3_fibonacci) [[video](https://youtu.be/2WjcXZYo7eA?si=289iwzLUJlhndVYa&t=1990)]**: Learn the basics of Writing Air Constraints and Execution traces.
-- **[Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck) [[video](https://www.youtube.com/live/c8y7l3Ee70g?feature=shared&t=986)]**: Learn how to compare values in Air Contraints, and how to optimize on constraint degrees.
+- **[Keccak Air](https://github.com/Plonky3/Plonky3/tree/main/keccak-air)**: Learn how to write keccak hash Air Constraints and prove in various field and hash configs.
+- **[Poseidon2 Air](https://github.com/Plonky3/Plonky3/tree/main/poseidon2-air)**: Learn how to write poseidon2 hash Air Constraints and prove in various field and hash configs.
+- **[Blake3 Air](https://github.com/Plonky3/Plonky3/tree/main/blake3-air)**: Learn how to write blake3 hash Air Constraints and prove in various field and hash configs.
+- **[Fibonacci Air](https://github.com/BrianSeong99/plonky3_fibonacci)[[video](https://youtu.be/2WjcXZYo7eA?si=289iwzLUJlhndVYa&t=1990)]**: Learn the basics of Writing Air Constraints and Execution traces.
+- **[Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck)[[video](https://www.youtube.com/live/c8y7l3Ee70g?feature=shared&t=986)]**: Learn how to compare values in Air Contraints and how to optimize constraint degrees.
 
 ### Lectures/Presentations:
 - **[Introduction to Plonky 1, 2, 3](https://www.youtube.com/live/v9xZrhAuTio)**: An introduction to Plonky by Daniel Lubarov.
@@ -70,3 +70,7 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 - **[Plonky3: Past, Present, Future](https://www.youtube.com/watch?v=203M0Q8iKso)**: A generalized overview of Plonky3 and its future by Daniel Lubarov
 - **[Aggregation Day : Plonky3, Type 1, Miden](https://www.youtube.com/watch?v=j9KZixZqpAM)**: A panel with Brendan, Daniel, and Bobbin from Polygon; Uma Roy, of Succinct Labs, and Eli Ben-Sasson, of Starkware.
 - **[Build with Plonky2 and Plonky3](https://www.youtube.com/watch?v=HPu_fSvjAV0)**: A panel with Paul G from Polygon, Ratan from Succinct, and Garvit from Electron on building with Plonky2 and Plonky3.
+
+## Miscs
+- **[Plonky3 Discord Channel](https://discord.gg/dM64bMSRtM)**: Plonky3 Discord Channel for discussion and support.
+- **[Plonky3 Grant - SoulForge](https://github.com/zk-bankai/soulforge)**: $100k dedicated to the Soul Society of Plonky3/Circom Development supported by Polygon.
