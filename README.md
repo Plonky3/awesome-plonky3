@@ -44,7 +44,7 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 ## Papers
 
 - **[Circle Stark](https://eprint.iacr.org/2024/278)**: Circle STARKs its a scheme that enables the STARK prover to work over the finite fields such as Mersenne 31 prime (M31).
-- **[Reed-Solomon Codes over the Circle Group](https://eprint.iacr.org/2023/824)**: Discusses of Reed-Solomon codes over the circle group.
+- **[Reed-Solomon Codes over the Circle Group](https://eprint.iacr.org/2023/824)**: Discusses of Reed-Solomon codes over the circle group. Note that this got replaced by circle stark techniques in Plonky3.
 - **[Poseidon2 in Plonky3](https://hackmd.io/@sin7y/r1VOOG8bR?utm_source=preview-mode&utm_medium=rec)**: Explores the implementation of Poseidon2 Hash in Plonky3 and a simple Bench test.
 
 ## Audits
