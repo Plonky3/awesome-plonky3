@@ -29,6 +29,7 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 - **[SP1 zkVM](https://github.com/succinctlabs/sp1) from Succinct Labs**: Performant Risc-V based zkVM that can prove Rust code execution.
 - **[Valida zkVM](https://github.com/valida-xyz/valida) from Lita Foundation**: Performant custom zk-friendly instruction sets that can prove Rust code execution.
 - **[Powdr zkVM](https://github.com/powdr-labs/powdr) Toolkit from Powdr Labs**: A toolkit for building zkVM or zkSystems, supports multiple proving backends including Plonky3.
+- **[OpenVM](https://github.com/openvm-org/openvm) from Axiom & Scroll**: OpenVM is a performant and modular zkVM framework built for customization and extensibility.
 
 ### DSL
 - **[Lurk](https://github.com/argumentcomputer/lurk) from Argument Computer Corporation**: Lurk is a Turing-complete programming language for zk-SNARKs, built on Plonky3 and Sphinx (our friendly fork of SP1).
