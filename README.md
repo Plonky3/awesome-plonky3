@@ -10,9 +10,7 @@ A curated list of Plonky3 resources, libraries, tools and more.
     <a href="https://github.com/Plonky3/awesome-plonky3/graphs/contributors">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Plonky3/awesome-plonky3">
     </a>
-    <a href="http://makeapullrequest.com">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    </a>
   </p>
 
 </div>
