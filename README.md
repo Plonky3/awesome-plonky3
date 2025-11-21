@@ -64,7 +64,7 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 - **[Poseidon2 Air](https://github.com/Plonky3/Plonky3/tree/main/poseidon2-air)**: Learn how to write poseidon2 hash Air Constraints and prove in various field and hash configs.
 - **[Blake3 Air](https://github.com/Plonky3/Plonky3/tree/main/blake3-air)**: Learn how to write blake3 hash Air Constraints and prove in various field and hash configs.
 - **[Fibonacci Air](https://github.com/BrianSeong99/plonky3_fibonacci)[[video](https://youtu.be/2WjcXZYo7eA?si=289iwzLUJlhndVYa&t=1990)]**: Learn the basics of Writing Air Constraints and Execution traces.
-- **[Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck)[[video](https://www.youtube.com/live/c8y7l3Ee70g?feature=shared&t=986)]**: Learn how to compare values in Air Contraints and how to optimize constraint degrees.
+- **[Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck)[[video](https://www.youtube.com/live/c8y7l3Ee70g?feature=shared&t=986)]**: Learn how to compare values in Air Constraints and how to optimize constraint degrees.
 - **[Useless zkVM](https://github.com/armanthepythonguy/Useless-ZKVM)**: This repository contains a minimalistic and educational Zero-Knowledge Virtual Machine (ZKVM) implemented using Plonky3.
 
 ### Lectures/Presentations:
