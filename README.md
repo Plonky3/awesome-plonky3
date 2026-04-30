@@ -65,6 +65,7 @@ Polygon [Plonky3](https://github.com/Plonky3/Plonky3) is a toolkit for implement
 - **[Range Check Air](https://github.com/BrianSeong99/plonky3_rangecheck)[[video](https://www.youtube.com/live/c8y7l3Ee70g?feature=shared&t=986)]**: Learn how to compare values in Air Constraints and how to optimize constraint degrees.
 - **[Useless zkVM](https://github.com/armanthepythonguy/Useless-ZKVM)**: This repository contains a minimalistic and educational Zero-Knowledge Virtual Machine (ZKVM) implemented using Plonky3.
 - **[Collatz sequence AIR](https://github.com/mmagician/collatz-air)**: A comparison of two different AIR backends (Plonky3 and Winterfell) for the Collatz sequence constraints.
+- **[Merkle Tree Air Script](https://hashcloak.com/blog/a-tutorial-on-building-a-merkle-tree-air-script-in-plonky3)**: Learn how to write Merkle tree Air Constraints
 
 ### Lectures/Presentations:
 - **[Introduction to Plonky 1, 2, 3](https://www.youtube.com/live/v9xZrhAuTio)**: An introduction to Plonky by Daniel Lubarov.
